@@ -1,0 +1,34 @@
+{
+  "ServerUrl": "OFF",
+  "StatusApp": "ON",
+  "links": [
+    {
+      "nome": "UNI - DNS 1",
+      "url": "http://onko.zip"
+    },
+    {
+      "nome": "UNI - DNS 2",
+      "url": "http://razyal.tel"
+    },
+    {
+      "nome": "4TV - DNS 1",
+      "url": "http://hkimps.pro"
+    },
+    {
+      "nome": "4TV - DNS 2",
+      "url": "http://dns1.pro"
+    },
+    {
+      "nome": "BTV - DNS 1",
+      "url": "http://a.srvhib.com.br:80"
+    },
+    {
+      "nome": "TOP - DNS 1",
+      "url": "http://opbx.top"
+    },
+    {
+      "nome": "EASY - DNS 1",
+      "url": "http://sarx.ddns.me"
+    }
+  ]
+}
