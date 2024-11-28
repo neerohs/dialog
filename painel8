@@ -1,6 +1,6 @@
 {
   "ServerUrl": "OFF",
-  "StatusApp": "ON",
+  "StatusApp": "OFF",
   "links": [
     {
       "nome": "Link 1",
