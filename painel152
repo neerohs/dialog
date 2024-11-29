@@ -1,6 +1,6 @@
 {
   "ServerUrl": "OFF",
-  "StatusApp": "ON",
+  "StatusApp": "OFF",
   "links": [
     {
       "nome": "UNI - DNS 1teste",
